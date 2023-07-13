@@ -1,13 +1,3 @@
-/**
- * main - entry point
- *
- * Description: Prints the size of various types on the machine architecture
- * and automatically detects the machine architecture to determine the size of
- * the pointer.
- *
- * Return: Always o (Success)
- */
-
 #include <stdio.h>
 
 int main(void) 
