@@ -5,7 +5,7 @@
  * and automatically detects the machine architecture to determine the size of
  * the pointer.
  *
- * Return: Always 0 (Success)
+ * Return: Always o (Success)
  */
 
 #include <stdio.h>
