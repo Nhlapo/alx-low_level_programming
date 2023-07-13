@@ -7,6 +7,7 @@
  *
  * Return: Always o (Success)
  */
+
 #include <stdio.h>
 
 int main(void) 
