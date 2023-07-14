@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - A program that prints the, and then in uppercase, followed by a new line.
+ * main - A program that prints, and then in uppercase, followed by a new line.
  *
  * Return: Always 0 (Success)
  */
