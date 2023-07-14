@@ -12,7 +12,7 @@ int main(void)
 	/* Print all single digit numbers of base 10 */
 	for (i = 0; i < 10; i++)
 	{
-		printf("%d\n", i);
+		printf("%d", i);
 	}
 
 	return (0);
