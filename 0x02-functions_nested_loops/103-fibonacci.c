@@ -12,7 +12,7 @@ int main(void)
 	long int num1 = 1;
 	long int num2 = 2;
 	long int fib;
-	long int sum = 2;  /* Start with the sum as 2 (accounting for the second term) */
+	long int sum = 2;  /* Start with the sum as 2 (acc for the second term) */
 
 	while (num1 + num2 <= limit)
 	{
