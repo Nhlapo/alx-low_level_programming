@@ -9,16 +9,16 @@
 int main(void)
 {
 	int count;
-	unsigned int num1 = 1;
-	unsigned int num2 = 2;
-	unsigned int fib;
+	unsigned long int num1 = 1;
+	unsigned long int num2 = 2;
+	unsigned long int fib;
 
-	printf("%u, %u", num1, num2);
+	printf("%lu, %lu", num1, num2);
 
 	for (count = 3; count <= 98; count++)
 	{
 		fib = num1 + num2;
-		printf(", %u", fib);
+		printf(", %lu", fib);
 
 		num1 = num2;
 		num2 = fib;
