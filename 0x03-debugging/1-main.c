@@ -13,8 +13,7 @@ int main(void)
 
 	i = 0;
 
-	/* Commented out the problematic part causing the infinite loop
-	while (i < 10)
+	/*while (i < 10)
 	{
 		putchar(i);
 	}
