@@ -12,7 +12,8 @@
  *
  **     * Return: number of words
  *
- **      */
+ **
+ */
 
 int count_word(char *s)
 {
