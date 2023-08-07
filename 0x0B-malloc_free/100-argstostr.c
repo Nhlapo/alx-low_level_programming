@@ -7,7 +7,7 @@
  * @ac: The number of command line arguments.
  * @av: An array of strings containing the command line arguments.
  *
- * Return: A pointer to the concatenated string, or NULL if memory allocation fails.
+ * Return: A pointer to the mory allocation fails.
  */
 char *argstostr(int ac, char **av)
 {
