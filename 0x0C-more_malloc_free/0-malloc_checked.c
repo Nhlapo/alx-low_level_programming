@@ -7,8 +7,9 @@
  * @b: Size of memory block to be allocated
  *
  * Return: Pointer to the allocated memory
- * Ifoc fails, the function causes normal process termination with a status value of 98
+ * Ifoc failsl process termination with a status value of 98
  */
+
 void *malloc_checked(unsigned int b)
 {
 	void *ptr;
