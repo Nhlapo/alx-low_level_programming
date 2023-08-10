@@ -5,9 +5,9 @@
  * *string_nconcat - concateg to another string
  * @s1: string to append to
  * @s2: string to concatenate from
- * @n: number of bytes from s2 to concatenate to s1
+ * @n: number of from s2 to concatenate to s1
  *
- * Return: pointer to the resulting string
+ * Return: poine resulting string
  */
 
 char *string_nconcat(char *s1, char *s2, unsigned int n)
